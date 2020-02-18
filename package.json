@@ -49,8 +49,7 @@
   "release": {
     "branches": [
       {
-        "name": "dev",
-        "channel": "dev"
+        "name": "dev"
       },
       {
         "name": "master"
