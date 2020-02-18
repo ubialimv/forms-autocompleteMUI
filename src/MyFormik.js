@@ -32,7 +32,7 @@ const MyFormik = () => {
           <form onSubmit={handleSubmit}>
             <MyFormFormik />
             <Button variant="contained" color="primary" type="submit">
-              CONTINUAR E SALVAR
+              CONTINUAR
             </Button>
           </form>
         )}
