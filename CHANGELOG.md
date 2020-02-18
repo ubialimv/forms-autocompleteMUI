@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ubialimv/forms-autocompleteMUI/compare/v1.0.0...v1.1.0) (2020-02-18)
+
+
+### Features
+
+* **src:** remove data.js ([8564d0f](https://github.com/ubialimv/forms-autocompleteMUI/commit/8564d0f1eb38972c127d6d0ee2f5789a63d59a88))
+
 # 1.0.0 (2020-02-18)
 
 
