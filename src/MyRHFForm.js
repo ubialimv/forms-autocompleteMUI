@@ -17,7 +17,7 @@ const MyRHFForm = () => {
       <form onSubmit={methods.handleSubmit(onSubmit)}>
         <MyFormRHF />
         <Button variant="contained" color="primary" type="submit">
-          SALVAR E CONTINUAR
+          SALVAR
         </Button>
       </form>
     </FormContext>
