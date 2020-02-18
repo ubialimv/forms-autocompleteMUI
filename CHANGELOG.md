@@ -1,3 +1,15 @@
+# [1.8.0](https://github.com/ubialimv/forms-autocompleteMUI/compare/v1.7.0...v1.8.0) (2020-02-18)
+
+
+### Bug Fixes
+
+* **core:** teste 16 ([f0de869](https://github.com/ubialimv/forms-autocompleteMUI/commit/f0de8690402eb7a66cdfb6358f7e4b5bbd156e35))
+
+
+### Features
+
+* **core:** add husky ([12b5c24](https://github.com/ubialimv/forms-autocompleteMUI/commit/12b5c2459ba471a64153222c46c5577eb897510d))
+
 # [1.7.0](https://github.com/ubialimv/forms-autocompleteMUI/compare/v1.6.2...v1.7.0) (2020-02-18)
 
 
