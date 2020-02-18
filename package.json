@@ -47,14 +47,6 @@
     "not op_mini all"
   ],
   "release": {
-    "branches": [
-      {
-        "name": "dev"
-      },
-      {
-        "name": "master"
-      }
-    ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
