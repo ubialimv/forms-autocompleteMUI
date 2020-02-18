@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ubialimv/forms-autocompleteMUI/compare/v1.1.0...v1.2.0) (2020-02-18)
+
+
+### Features
+
+* **styles:** change buttton label ([f58182b](https://github.com/ubialimv/forms-autocompleteMUI/commit/f58182bcc6257df48a0e657fd03943c992e6cdec))
+
 # [1.1.0](https://github.com/ubialimv/forms-autocompleteMUI/compare/v1.0.0...v1.1.0) (2020-02-18)
 
 
