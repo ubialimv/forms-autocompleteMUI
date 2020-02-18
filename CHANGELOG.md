@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/ubialimv/forms-autocompleteMUI/compare/v1.9.0...v1.10.0) (2020-02-18)
+
+
+### Features
+
+* **core:** teste 20 ([7e45db7](https://github.com/ubialimv/forms-autocompleteMUI/commit/7e45db766db288969ce5378af70059abf7c370b0))
+
 # [1.9.0](https://github.com/ubialimv/forms-autocompleteMUI/compare/v1.8.0...v1.9.0) (2020-02-18)
 
 
