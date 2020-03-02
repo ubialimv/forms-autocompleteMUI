@@ -1,3 +1,11 @@
+# [1.11.0](https://github.com/ubialimv/forms-autocompleteMUI/compare/v1.10.0...v1.11.0) (2020-03-02)
+
+
+### Features
+
+* **component:** change button name ([bbcc003](https://github.com/ubialimv/forms-autocompleteMUI/commit/bbcc0039a053dd222eae4de605a26d9cbfb5bbd0))
+* **core:** create .releaserc.js ([07edbd7](https://github.com/ubialimv/forms-autocompleteMUI/commit/07edbd74d6c93787d8fc07de10f61bf13a7abad9))
+
 # [1.10.0](https://github.com/ubialimv/forms-autocompleteMUI/compare/v1.9.0...v1.10.0) (2020-02-18)
 
 
